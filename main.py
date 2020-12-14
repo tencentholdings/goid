@@ -1,7 +1,7 @@
 import tkinter as tk
 
 authTokenValue = None
-#This is a test comment
+
 
 def test_function():
 	print(authToken.get())
